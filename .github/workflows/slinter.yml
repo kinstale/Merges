@@ -1,4 +1,4 @@
-name: SLinter
+name: Super-Linter
 
 on: push
 
